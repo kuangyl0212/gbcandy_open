@@ -1,0 +1,22 @@
+# Build outputs
+impl/
+*.fs
+*.ra
+
+# IDE files
+*.gprj.user/
+gowin/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Debug outputs
+serial_out/
