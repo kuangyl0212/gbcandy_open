@@ -6,6 +6,12 @@
 
 GBCandy Nano is an open-source FPGA Game Boy / Game Boy Color emulator running on the Sipeed Tang Nano 20K development board. It implements the complete Game Boy hardware logic — CPU, PPU, APU, Timer, and MBC Mapper — enabling original Game Boy games to run on FPGA.
 
+## Preview
+
+![Preview](preview1.jpg)
+
+![Unassembled](unassembled.png)
+
 ## Features
 
 - **Full LR35902 CPU** — Cycle-accurate Game Boy CPU with complete instruction set (including CB-prefix instructions)
